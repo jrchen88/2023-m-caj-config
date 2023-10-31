@@ -1,10 +1,10 @@
-studentId: speaker01
-project: speaker01-green
+studentId: student13
+project: student13-green
 clusterAppsDomain: apps.cluster-w97m7.w97m7.sandbox753.opentlc.com
 
 image:
   masterfile: 
-    repo: quay.io/ske/m-caj-masterfile
+    repo: quay.io/jrchen88/m-caj-masterfile
     tag: latest
   fare: 
     repo: quay.io/ske/m-caj-fare
